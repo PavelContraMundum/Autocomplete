@@ -5,7 +5,7 @@ import AutoCompleteText from './AutoCompleteText';
 function App() {
   return (
     <div className="App">
-      <AutoCompleteText />
+    <div className='App-Component'><AutoCompleteText /></div>
     </div>
   );
 }
